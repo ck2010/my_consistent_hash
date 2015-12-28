@@ -3,7 +3,7 @@ This is the source code of my consistent hash.
 
 # Compile and run
 
-this is a Microsoft Visual Studio 2013. Click consistent_hash.sln and build, then you can debug and run in the environment of MSVS 2013 or You can run consistent_hash.exe directly.
+this is a Microsoft Visual Studio 2013. Click consistent_hash.sln and build, then you can debug and run in the environment of MSVS 2013.
 
 # Reference 
 
